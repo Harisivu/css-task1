@@ -1,0 +1,134 @@
+
+
+.container{
+      
+      width: 350px;
+      height: 600px;
+      border-radius: 30px;
+      box-shadow:1px 1px  5px rgb(81, 78, 78);
+      position: relative;
+      left: 40%;
+      background-color: azure;
+      
+      
+      
+}
+.img_1{
+      border-radius: 50%;
+     position: relative;
+     top: 20px;
+}
+.name{
+   position: relative;
+   left: 10px;  
+}
+
+.mari{
+      display: flex;
+      padding: 5px;
+}
+i{
+      color: black;
+}
+a{
+      text-decoration:none ;
+}
+.content{
+     display: flex; 
+     position: relative;
+}
+.flex{
+      flex-wrap: wrap;
+      
+      position: absolute;
+      left:45px ;
+      top: 0px;
+      padding: 2px;
+      
+}
+.side{
+      position: absolute;
+      top:0px ;
+      right: 10px;
+}
+.line{
+      width:90% ;
+}
+
+
+.item{
+     position: relative;
+      left: 15px;
+}
+.flex2{
+      position: absolute;
+      left:45px ;
+      bottom: 130px; 
+}
+.side2{
+      position: absolute;
+      bottom: 130px;
+      right: 10px;
+}
+.color{
+      padding: 0px;
+      background-color:rgb(254, 254, 254);
+}
+.color1{
+       padding:0px;
+       background-color: rgb(255, 255, 255);
+}
+.color2{
+      padding:0px;
+      background-color: rgb(255, 255, 255);
+}
+.color3{
+      padding:0px;
+      background-color: rgb(255, 255, 254);
+}.color4{
+      padding:0px;
+      background-color: rgb(255, 255, 255);
+}
+.item1{
+      position: absolute;
+      left: 15px; 
+}
+.color5{
+      padding:0px;
+      background-color: rgb(255, 255, 254);
+}
+.color6{
+      padding:0px;
+      background-color: rgb(255, 255, 254);
+}
+
+
+
+
+
+
+
+.footer1{
+      position: relative;
+      top:170px;
+      left: 25px;
+}
+.footer2{
+      position: relative;
+      top:130px;
+      left: 115px;
+}
+.footer3{
+      position: absolute;
+      top:537px;
+      left: 215px;
+}
+.footer4{
+      position: absolute;
+      top:537px;
+      right: 30px;
+}
+button{
+      position: absolute;
+      right:10px ;
+}
